@@ -46,7 +46,6 @@
 
 - **🌐 HTML**
 - **🎨 CSS**
-- **💻 JavaScript**
 
 ## 🚀 How to Use 🚀
 
